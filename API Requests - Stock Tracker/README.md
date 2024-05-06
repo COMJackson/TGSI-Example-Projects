@@ -1,7 +1,7 @@
 # Stock Tracker
 ### Purpose: 
 The purpose of this script is to track a stock and send out an 
-alert if the stock has increased or decreased by 5% with newsapi
+alert if the stock has increased or decreased by 5% with news
 that is relevent to the stocks company.
 
 ### API Keys and Telegram Chat ID
